@@ -1,4 +1,5 @@
-URL OF THE DATASET: https://www.kaggle.com/datasets/alexgude/california-traffic-collision-data-from-switrs/data\
+URL OF THE DATASET: https://www.kaggle.com/datasets/alexgude/california-traffic-collision-data-from-switrs/data
+<br>
 CODE FOR DOWNLOAD:
 
 ```
