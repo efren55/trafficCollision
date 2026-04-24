@@ -1,7 +1,8 @@
 URL OF THE DATASET: https://www.kaggle.com/datasets/alexgude/california-traffic-collision-data-from-switrs/data
-CODE FOR DOWNLOAD:
-import kagglehub
+CODE FOR DOWNLOAD: 
 
+
+import kagglehub
 # Download latest version
 path = kagglehub.dataset_download("alexgude/california-traffic-collision-data-from-switrs")
 
